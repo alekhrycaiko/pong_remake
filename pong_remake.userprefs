@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ball_movement'.js">
+    <Files>
+      <File FileName="Assets\scripts\ai_controller.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ball_movement'.js" Line="10" Column="1" />
+      <File FileName="Assets\scripts\menu_background.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\load_vai.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\load_oneversus.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
