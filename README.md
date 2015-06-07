@@ -7,7 +7,7 @@ remake the game and learn about some of the changes :)
 My version of this game has some of the features from the original game, but I plan to add more features in the future.
 
 Current features (updated 6/7/2015):
-- One - Two players can play
+- One or Two players can play
 - Ball physics should function as intended (very simply).
 - Some neato colors are used.
 - Ball auto-starts
